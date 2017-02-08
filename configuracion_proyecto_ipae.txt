@@ -1,0 +1,11 @@
+Password: 	proyectoipae
+Alias:		proyectoipaealias
+KEY
+Alias:		proyectoipaealias
+Password: 	proyectoipae
+CERTIFICATE
+First and Last Name:	Proyecto Ipae
+Organization Unit:	UcWeb
+City or Locality:	Lima - Magdalena
+State or Province:	Lima
+Country Code (XX):	17
